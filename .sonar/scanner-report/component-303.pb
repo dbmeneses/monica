@@ -1,0 +1,1 @@
+¯%app/Console/Commands/LangGenerate.php 2phpX3hr%app/Console/Commands/LangGenerate.php

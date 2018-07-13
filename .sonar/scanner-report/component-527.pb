@@ -1,0 +1,1 @@
+èresources/lang/ru :éêëíìîïñóòôöúrresources/lang/ru

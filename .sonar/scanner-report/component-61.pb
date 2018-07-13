@@ -1,0 +1,1 @@
+=*app/Http/Resources/Task/TaskCollection.php 2phpXhr*app/Http/Resources/Task/TaskCollection.php

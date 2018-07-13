@@ -1,0 +1,1 @@
+òresources/views/people :ñùúû‚ƒrresources/views/people

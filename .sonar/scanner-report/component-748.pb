@@ -1,0 +1,1 @@
+ì)resources/views/people/debt/add.blade.php 2phpX/hr)resources/views/people/debt/add.blade.php

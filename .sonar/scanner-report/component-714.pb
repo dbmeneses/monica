@@ -1,0 +1,1 @@
+Ê8resources/views/settings/subscriptions/account.blade.php 2phpXJhr8resources/views/settings/subscriptions/account.blade.php

@@ -1,0 +1,1 @@
+u(app/Http/Resources/RelationshipTypeGroup :t}r(app/Http/Resources/RelationshipTypeGroup

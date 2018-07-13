@@ -1,0 +1,1 @@
+ìJresources/assets/js/components/journal/partials/JournalContentActivity.vue 2jsX‹hrJresources/assets/js/components/journal/partials/JournalContentActivity.vue

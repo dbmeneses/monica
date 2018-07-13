@@ -1,0 +1,1 @@
+‡)app/Interfaces/IsJournalableInterface.php 2phpXhr)app/Interfaces/IsJournalableInterface.php

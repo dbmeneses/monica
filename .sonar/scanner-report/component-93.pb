@@ -1,0 +1,1 @@
+]8app/Http/Resources/RelationshipType/RelationshipType.php 2phpX hr8app/Http/Resources/RelationshipType/RelationshipType.php

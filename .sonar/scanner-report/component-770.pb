@@ -1,0 +1,1 @@
+‚&resources/views/people/index.blade.php 2phpXÄhr&resources/views/people/index.blade.php

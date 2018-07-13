@@ -1,0 +1,1 @@
+¿ resources/views/vendor/mail/html :¾ÀÁÂÅÈÉÊËr resources/views/vendor/mail/html

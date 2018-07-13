@@ -1,0 +1,1 @@
+¬#app/Console/Commands/GetVersion.php 2phpX!hr#app/Console/Commands/GetVersion.php

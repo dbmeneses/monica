@@ -1,0 +1,1 @@
+º3resources/views/vendor/passport/authorize.blade.php 2phpX7hr3resources/views/vendor/passport/authorize.blade.php

@@ -1,0 +1,1 @@
+¡)resources/views/activities/edit.blade.php 2phpX.hr)resources/views/activities/edit.blade.php

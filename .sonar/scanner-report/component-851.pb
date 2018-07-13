@@ -1,0 +1,1 @@
+Ó.resources/views/vendor/mail/markdown/promotion :Òr.resources/views/vendor/mail/markdown/promotion

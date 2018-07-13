@@ -1,0 +1,1 @@
+áresources/views/auth/passwords :àârresources/views/auth/passwords

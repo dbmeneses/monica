@@ -1,0 +1,1 @@
+[Bapp/Http/Resources/RelationshipType/RelationshipTypeCollection.php 2phpXhrBapp/Http/Resources/RelationshipType/RelationshipTypeCollection.php

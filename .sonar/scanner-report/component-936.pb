@@ -1,0 +1,1 @@
+¨$tests/Unit/Traits/SearchableTest.php (2phpX;hr$tests/Unit/Traits/SearchableTest.php

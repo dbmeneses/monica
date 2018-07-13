@@ -1,0 +1,1 @@
+ç'resources/views/auth/register.blade.php 2phpXShr'resources/views/auth/register.blade.php

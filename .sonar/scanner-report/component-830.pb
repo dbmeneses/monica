@@ -1,0 +1,1 @@
+¾4resources/views/vendor/mail/html/promotion.blade.php 2phpXhr4resources/views/vendor/mail/html/promotion.blade.php

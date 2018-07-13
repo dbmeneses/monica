@@ -1,0 +1,1 @@
+ø+resources/views/people/work/index.blade.php 2phpX.hr+resources/views/people/work/index.blade.php

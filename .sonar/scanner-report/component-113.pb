@@ -1,0 +1,1 @@
+q2app/Http/Resources/Reminder/ReminderCollection.php 2phpXhr2app/Http/Resources/Reminder/ReminderCollection.php

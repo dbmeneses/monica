@@ -1,0 +1,1 @@
+•app/Jobs/SendNewUserAlert.php 2phpX+hrapp/Jobs/SendNewUserAlert.php

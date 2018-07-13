@@ -1,0 +1,1 @@
+­ app/Console/Commands/Inspire.php 2phpX"hr app/Console/Commands/Inspire.php

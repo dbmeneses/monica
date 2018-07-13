@@ -1,0 +1,1 @@
+è9tests/Browser/Pages/Settings/SettingsPersonnalization.php (2phpX+hr9tests/Browser/Pages/Settings/SettingsPersonnalization.php

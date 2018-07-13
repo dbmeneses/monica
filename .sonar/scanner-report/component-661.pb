@@ -1,0 +1,1 @@
+ïresources/lang/he :îñóòôöõúûü†°ùrresources/lang/he

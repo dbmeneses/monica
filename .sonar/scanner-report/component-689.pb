@@ -1,0 +1,1 @@
+±resources/lang/cs :°²³´µ¶·¸¹º»½¼rresources/lang/cs

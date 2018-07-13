@@ -1,0 +1,1 @@
+ë/resources/assets/js/components/journal/partials :êìíér/resources/assets/js/components/journal/partials

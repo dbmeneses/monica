@@ -1,0 +1,1 @@
+âresources/views/people/tasks :árresources/views/people/tasks

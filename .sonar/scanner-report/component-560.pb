@@ -1,0 +1,1 @@
+°resources/lang/es/reminder.php 2phpXhrresources/lang/es/reminder.php

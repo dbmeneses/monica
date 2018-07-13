@@ -1,0 +1,1 @@
+À1resources/views/vendor/mail/html/footer.blade.php 2phpXhr1resources/views/vendor/mail/html/footer.blade.php

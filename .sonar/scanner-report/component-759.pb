@@ -1,0 +1,1 @@
+÷resources/views/people/work :öørresources/views/people/work

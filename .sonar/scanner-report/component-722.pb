@@ -1,0 +1,1 @@
+Ò(resources/views/settings/index.blade.php 2phpX¢hr(resources/views/settings/index.blade.php

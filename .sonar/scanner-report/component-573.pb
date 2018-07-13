@@ -1,0 +1,1 @@
+½resources/lang/zh/people.php 2phpXØhrresources/lang/zh/people.php

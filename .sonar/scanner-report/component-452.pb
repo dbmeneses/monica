@@ -1,0 +1,1 @@
+Äpublic/js/manifest.js 2jsXhrpublic/js/manifest.js

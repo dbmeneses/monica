@@ -1,0 +1,1 @@
+á%resources/assets/js/components/people :àâãåæçèr%resources/assets/js/components/people

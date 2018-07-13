@@ -1,0 +1,1 @@
+Ë2resources/views/vendor/mail/html/subcopy.blade.php 2phpXhr2resources/views/vendor/mail/html/subcopy.blade.php

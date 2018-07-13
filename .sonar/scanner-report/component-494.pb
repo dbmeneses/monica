@@ -1,0 +1,1 @@
+î6resources/assets/js/components/journal/JournalList.vue 2jsX—hr6resources/assets/js/components/journal/JournalList.vue

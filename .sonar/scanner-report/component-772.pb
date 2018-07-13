@@ -1,0 +1,1 @@
+„4resources/views/people/modal/activity_view.blade.php 2phpX/hr4resources/views/people/modal/activity_view.blade.php

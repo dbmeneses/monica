@@ -1,0 +1,1 @@
+°resources/lang/cs/mail.php 2phpXhrresources/lang/cs/mail.php

@@ -1,0 +1,1 @@
+j2app/Http/Resources/Activity/ActivityCollection.php 2phpXhr2app/Http/Resources/Activity/ActivityCollection.php

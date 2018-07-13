@@ -1,0 +1,1 @@
++app/Http/Requests/Journal :*rapp/Http/Requests/Journal

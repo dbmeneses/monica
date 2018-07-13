@@ -1,0 +1,1 @@
+wapp/Http/Resources/Journal :vxrapp/Http/Resources/Journal

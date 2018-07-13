@@ -1,0 +1,1 @@
+R*app/Http/Resources/Note/NoteCollection.php 2phpXhr*app/Http/Resources/Note/NoteCollection.php

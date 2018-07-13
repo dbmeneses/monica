@@ -1,0 +1,1 @@
+Å6resources/lang/vendor/confirmation/de/confirmation.php 2phpXhr6resources/lang/vendor/confirmation/de/confirmation.php

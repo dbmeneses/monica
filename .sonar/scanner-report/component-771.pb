@@ -1,0 +1,1 @@
+ƒ(resources/views/people/profile.blade.php 2phpXphr(resources/views/people/profile.blade.php

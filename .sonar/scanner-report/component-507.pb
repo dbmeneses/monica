@@ -1,0 +1,1 @@
+û'resources/assets/js/components/partials :úr'resources/assets/js/components/partials

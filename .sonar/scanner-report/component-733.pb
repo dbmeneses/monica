@@ -1,0 +1,1 @@
+Ý resources/views/people/reminders :ÜÞßàr resources/views/people/reminders

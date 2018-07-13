@@ -1,0 +1,1 @@
+¼4resources/views/vendor/notifications/email.blade.php 2phpX?hr4resources/views/vendor/notifications/email.blade.php

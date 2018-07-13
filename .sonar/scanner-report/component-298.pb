@@ -1,0 +1,1 @@
+ª1app/Console/Commands/MigrateDatabaseCollation.php 2phpXxhr1app/Console/Commands/MigrateDatabaseCollation.php
