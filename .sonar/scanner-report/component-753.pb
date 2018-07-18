@@ -1,1 +1,0 @@
-ñ(resources/views/people/sidebar.blade.php 2phpXhr(resources/views/people/sidebar.blade.php

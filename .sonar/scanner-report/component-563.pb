@@ -1,1 +1,0 @@
-³resources/lang/es/journal.php 2phpXhrresources/lang/es/journal.php

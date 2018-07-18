@@ -1,1 +1,0 @@
-G$app/Http/Resources/Settings/Currency :Fcr$app/Http/Resources/Settings/Currency

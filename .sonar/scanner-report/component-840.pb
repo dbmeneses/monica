@@ -1,1 +1,0 @@
-È1resources/views/vendor/mail/html/layout.blade.php 2phpX7hr1resources/views/vendor/mail/html/layout.blade.php

@@ -1,1 +1,0 @@
-Ç*resources/views/vendor/mail/html/promotion :Ær*resources/views/vendor/mail/html/promotion

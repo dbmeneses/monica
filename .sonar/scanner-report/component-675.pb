@@ -1,1 +1,0 @@
-£resources/lang/nl :¢¤¥¦§¨©ª«¬­®¯rresources/lang/nl

@@ -1,1 +1,0 @@
-app/Mail/InvitationSent.php 2phpX(hrapp/Mail/InvitationSent.php

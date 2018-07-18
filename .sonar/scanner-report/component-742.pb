@@ -1,1 +1,0 @@
-æ3resources/views/people/relationship/index.blade.php 2phpX4hr3resources/views/people/relationship/index.blade.php

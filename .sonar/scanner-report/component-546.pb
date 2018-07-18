@@ -1,1 +1,0 @@
-¢resources/lang/de/people.php 2phpXØhrresources/lang/de/people.php

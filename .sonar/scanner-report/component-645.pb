@@ -1,1 +1,0 @@
-…resources/lang/pt/app.php 2phpXæhrresources/lang/pt/app.php

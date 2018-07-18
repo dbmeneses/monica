@@ -1,1 +1,0 @@
- :app/Http/Controllers/Api/ApiRelationshipTypeController.php 2phpX6hr:app/Http/Controllers/Api/ApiRelationshipTypeController.php

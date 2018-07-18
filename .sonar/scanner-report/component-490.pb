@@ -1,1 +1,0 @@
-êFresources/assets/js/components/journal/partials/JournalContentRate.vue 2jsX¤hrFresources/assets/js/components/journal/partials/JournalContentRate.vue

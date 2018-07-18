@@ -1,1 +1,0 @@
-ö*resources/views/people/work/edit.blade.php 2phpXHhr*resources/views/people/work/edit.blade.php

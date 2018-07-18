@@ -1,1 +1,0 @@
-”resources/lang/ru/people.php 2phpXØhrresources/lang/ru/people.php

@@ -1,1 +1,0 @@
-«resources/lang/nl/journal.php 2phpXhrresources/lang/nl/journal.php

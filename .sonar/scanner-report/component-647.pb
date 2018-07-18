@@ -1,1 +1,0 @@
-áresources/lang/fr :Üàâäãåçéèêëíìrresources/lang/fr

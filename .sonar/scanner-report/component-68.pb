@@ -1,1 +1,0 @@
-D&app/Http/Resources/Settings/Compliance :CEr&app/Http/Resources/Settings/Compliance

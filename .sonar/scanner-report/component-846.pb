@@ -1,1 +1,0 @@
-Î5resources/views/vendor/mail/markdown/footer.blade.php 2phpXhr5resources/views/vendor/mail/markdown/footer.blade.php

@@ -1,1 +1,0 @@
-¸resources/lang/zh :·º»¼½¾¿ÀÁÂÃ¹Ärresources/lang/zh

@@ -1,1 +1,0 @@
-ùresources/lang/pt :øúûüışÿ€‚ƒ„…rresources/lang/pt

@@ -1,1 +1,0 @@
-A,app/Http/Resources/Settings/ContactFieldType :@Br,app/Http/Resources/Settings/ContactFieldType

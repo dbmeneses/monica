@@ -1,1 +1,0 @@
-E5app/Http/Resources/Settings/Compliance/Compliance.php 2phpXhr5app/Http/Resources/Settings/Compliance/Compliance.php

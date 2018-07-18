@@ -1,1 +1,0 @@
-ƒresources/lang/pt/settings.php 2phpX«hrresources/lang/pt/settings.php

@@ -1,1 +1,0 @@
-‘)resources/views/partials/footer.blade.php 2phpXhr)resources/views/partials/footer.blade.php

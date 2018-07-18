@@ -1,1 +1,0 @@
-£app/Console/Commands :¢§©ª¬«­®¯°±´µ¶Àrapp/Console/Commands

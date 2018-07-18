@@ -1,1 +1,0 @@
-tBapp/Http/Resources/RelationshipTypeGroup/RelationshipTypeGroup.php 2phpXhrBapp/Http/Resources/RelationshipTypeGroup/RelationshipTypeGroup.php

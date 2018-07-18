@@ -1,1 +1,0 @@
-§/resources/views/dashboard/blank_notes.blade.php 2phpXhr/resources/views/dashboard/blank_notes.blade.php

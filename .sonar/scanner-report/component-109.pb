@@ -1,1 +1,0 @@
-mapp/Http/Resources/Relationship :lnrapp/Http/Resources/Relationship

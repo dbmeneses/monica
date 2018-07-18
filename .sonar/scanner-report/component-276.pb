@@ -1,1 +1,0 @@
-”app/Jobs/ResizeAvatars.php 2phpX>hrapp/Jobs/ResizeAvatars.php

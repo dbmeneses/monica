@@ -1,1 +1,0 @@
-¥)resources/views/activities/form.blade.php 2phpXfhr)resources/views/activities/form.blade.php

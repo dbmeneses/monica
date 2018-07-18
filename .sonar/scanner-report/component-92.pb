@@ -1,1 +1,0 @@
-\#app/Http/Resources/RelationshipType :[]r#app/Http/Resources/RelationshipType

@@ -1,1 +1,0 @@
-î#app/Models/Contact/ReminderRule.php 2phpXGhr#app/Models/Contact/ReminderRule.php

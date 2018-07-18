@@ -1,1 +1,0 @@
-À*app/Http/Controllers/JournalController.php 2phpX¾hr*app/Http/Controllers/JournalController.php

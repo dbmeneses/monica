@@ -1,1 +1,0 @@
-¢resources/views/activities :¡£¤¥rresources/views/activities

@@ -1,1 +1,0 @@
-ü+resources/views/people/gifts/edit.blade.php 2phpX.hr+resources/views/people/gifts/edit.blade.php

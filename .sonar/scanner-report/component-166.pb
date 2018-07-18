@@ -1,1 +1,0 @@
-¦1app/Http/Controllers/Api/ApiJournalController.php 2phpXˆhr1app/Http/Controllers/Api/ApiJournalController.php

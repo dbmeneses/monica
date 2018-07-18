@@ -1,1 +1,0 @@
-g(app/Http/Resources/Activity/Activity.php 2phpX%hr(app/Http/Resources/Activity/Activity.php

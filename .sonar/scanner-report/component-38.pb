@@ -1,1 +1,0 @@
-&app/Http/Requests/Settings :%rapp/Http/Requests/Settings

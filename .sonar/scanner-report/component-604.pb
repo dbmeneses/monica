@@ -1,1 +1,0 @@
-Ü%resources/lang/vendor/confirmation/cs :Úr%resources/lang/vendor/confirmation/cs

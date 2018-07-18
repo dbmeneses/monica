@@ -1,1 +1,0 @@
-­resources/lang/es/auth.php 2phpXEhrresources/lang/es/auth.php

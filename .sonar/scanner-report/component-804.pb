@@ -1,1 +1,0 @@
-¤(resources/views/activities/add.blade.php 2phpX.hr(resources/views/activities/add.blade.php

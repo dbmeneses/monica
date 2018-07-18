@@ -1,1 +1,0 @@
-ù'resources/views/people/create.blade.php 2phpXuhr'resources/views/people/create.blade.php

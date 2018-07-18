@@ -1,1 +1,0 @@
-ýresources/views/people/gifts :üþÿ€rresources/views/people/gifts

@@ -1,1 +1,0 @@
-èapp/Traits/Searchable.php 2phpX#hrapp/Traits/Searchable.php

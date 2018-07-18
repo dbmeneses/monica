@@ -1,1 +1,0 @@
-«resources/lang/es :ª­®¯°±²³¬´µ¶Îrresources/lang/es

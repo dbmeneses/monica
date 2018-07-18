@@ -1,1 +1,0 @@
-¤ resources/lang/nl/validation.php 2phpX{hr resources/lang/nl/validation.php

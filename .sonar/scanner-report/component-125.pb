@@ -1,1 +1,0 @@
-}Lapp/Http/Resources/RelationshipTypeGroup/RelationshipTypeGroupCollection.php 2phpXhrLapp/Http/Resources/RelationshipTypeGroup/RelationshipTypeGroupCollection.php

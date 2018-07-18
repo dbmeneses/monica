@@ -1,1 +1,0 @@
-§&app/Console/Commands/Deactivate2FA.php 2phpXJhr&app/Console/Commands/Deactivate2FA.php

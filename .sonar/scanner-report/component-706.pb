@@ -1,1 +1,0 @@
-Â6resources/views/settings/security/u2f-enable.blade.php 2phpX9hr6resources/views/settings/security/u2f-enable.blade.php

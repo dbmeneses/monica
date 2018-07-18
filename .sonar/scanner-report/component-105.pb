@@ -1,1 +1,0 @@
-i>app/Http/Resources/Activity/ActivityTypeCategoryCollection.php 2phpXhr>app/Http/Resources/Activity/ActivityTypeCategoryCollection.php

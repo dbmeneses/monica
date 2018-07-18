@@ -1,1 +1,0 @@
-v0app/Http/Resources/Journal/JournalCollection.php 2phpXhr0app/Http/Resources/Journal/JournalCollection.php

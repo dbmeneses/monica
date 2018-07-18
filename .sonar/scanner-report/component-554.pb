@@ -1,1 +1,0 @@
-ªresources/lang/es/mail.php 2phpXhrresources/lang/es/mail.php

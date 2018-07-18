@@ -1,1 +1,0 @@
-ÿresources/lang/pt/reminder.php 2phpXhrresources/lang/pt/reminder.php

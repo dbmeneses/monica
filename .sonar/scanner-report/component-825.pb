@@ -1,1 +1,0 @@
-¹:resources/views/vendor/pagination/simple-default.blade.php 2phpXhr:resources/views/vendor/pagination/simple-default.blade.php

@@ -1,1 +1,0 @@
-¦!resources/views/emails/invitation :Ÿr!resources/views/emails/invitation

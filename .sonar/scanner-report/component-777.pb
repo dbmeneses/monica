@@ -1,1 +1,0 @@
-‰'resources/views/journal/index.blade.php 2phpXhr'resources/views/journal/index.blade.php

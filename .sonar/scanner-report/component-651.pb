@@ -1,1 +1,0 @@
-‹resources/lang/fr/passwords.php 2phpXhrresources/lang/fr/passwords.php

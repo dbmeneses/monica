@@ -1,1 +1,0 @@
-—3resources/views/partials/auth/validate2fa.blade.php 2phpX(hr3resources/views/partials/auth/validate2fa.blade.php

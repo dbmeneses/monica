@@ -1,1 +1,0 @@
-ï&resources/assets/js/components/journal :îr&resources/assets/js/components/journal

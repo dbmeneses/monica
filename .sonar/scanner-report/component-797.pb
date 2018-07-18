@@ -1,1 +1,0 @@
-ù2resources/views/emails/reminder/reminder.blade.php 2phpXhr2resources/views/emails/reminder/reminder.blade.php

@@ -1,1 +1,0 @@
-e6app/Http/Resources/Activity/ActivityTypeCollection.php 2phpXhr6app/Http/Resources/Activity/ActivityTypeCollection.php

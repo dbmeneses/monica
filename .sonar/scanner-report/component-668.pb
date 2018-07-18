@@ -1,1 +1,0 @@
-œ resources/lang/he/pagination.php 2phpXhr resources/lang/he/pagination.php

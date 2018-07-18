@@ -1,1 +1,0 @@
-Ìresources/views/settings/api :Ärresources/views/settings/api

@@ -1,1 +1,0 @@
-Šresources/views/journal :‰‹rresources/views/journal

@@ -1,1 +1,0 @@
- app/Console/Kernel.php 2phpX1hrapp/Console/Kernel.php

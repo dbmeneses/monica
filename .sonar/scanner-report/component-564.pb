@@ -1,1 +1,0 @@
-´resources/lang/es/changelog.php 2phpXhrresources/lang/es/changelog.php

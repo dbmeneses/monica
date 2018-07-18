@@ -1,1 +1,0 @@
-†resources/views/people/modal :„…rresources/views/people/modal

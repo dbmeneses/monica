@@ -1,1 +1,0 @@
-Ûresources/views/marketing :ÚÜrresources/views/marketing

@@ -1,1 +1,0 @@
-„resources/lang/pt/format.php 2phpXhrresources/lang/pt/format.php

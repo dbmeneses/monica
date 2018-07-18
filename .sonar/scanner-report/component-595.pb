@@ -1,1 +1,0 @@
-Ó%resources/lang/vendor/confirmation/pt :Òr%resources/lang/vendor/confirmation/pt

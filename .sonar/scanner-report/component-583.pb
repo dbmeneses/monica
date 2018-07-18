@@ -1,1 +1,0 @@
-Ç%resources/lang/vendor/confirmation/de :År%resources/lang/vendor/confirmation/de

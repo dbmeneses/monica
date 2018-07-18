@@ -1,1 +1,0 @@
-é*resources/views/auth/validate2fa.blade.php 2phpX hr*resources/views/auth/validate2fa.blade.php
